@@ -1,5 +1,5 @@
 ---
-title: "DOE.001: Zennデビュー（マークダウン記法）"
+title: "Zennデビュー（マークダウン記法）"
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [markdown]
