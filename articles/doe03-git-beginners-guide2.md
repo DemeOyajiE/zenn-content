@@ -138,11 +138,10 @@ Zennへの投稿テストページです。
 
 
 <br>
-テストで投稿した記事はいらないのでZennから削除しておきます。
-Githubの記事も気になる人は削除しておくとイイかも、、今回は削除してないですが、、、
+テストで投稿した記事はいらないのでGithubから削除しましょう。
+Zennだけ削除してもGithubからの再同期で復活してしまいますよ(ToT)
 
-![](https://storage.googleapis.com/zenn-user-upload/fbbb2bc234b3259d9555fa5a.png)
-![](https://storage.googleapis.com/zenn-user-upload/9ddbcd821e873cd7594fd786.png)
+
 
 ## さいごに
 これから学んだことを少しずつでもZennで投稿して行ければと思います。
