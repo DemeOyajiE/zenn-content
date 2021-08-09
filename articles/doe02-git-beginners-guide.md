@@ -49,8 +49,7 @@ Webエディターの方が今の自分には合ってるけど、ドラフト�
 
 > Zennの投稿には興味無いんだよね～、またGit環境も構築済みなんだよね～ 
 
-という方は、`【後編：記事投稿(Git)】`にスキップして下さい。
-
+という方は、[後編：記事投稿(Git)](https://zenn.dev/dameoyajie/articles/doe03-git-beginners-guide2)にスキップして下さい。
 
 # 1. GitHub登録とZennへの連携
 早速、GitHubサイトで自分のリポジトリを作成し、そのリポジトリをZennに連携する作業を行いましょう。
