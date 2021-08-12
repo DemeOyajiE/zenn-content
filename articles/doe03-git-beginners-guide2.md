@@ -53,11 +53,6 @@ VimでOKの方は作業不要です。
 
 これでGitのインストールできました。
 
-# 4. Gitコマンドによる投稿手順(add,commit,remote,push)
-いよいよ投稿手順ですね。手順はこんな感じですね。
-![投稿手順の概要図](https://storage.googleapis.com/zenn-user-upload/500ba49816027347a8fdc77b.png)
-
-## 事前確認
 #### Gitインストールの確認
 まずは、VS Codeを起動してGitがインストールされているか確認しましょう。
 
@@ -68,7 +63,12 @@ $ git --version
 ```
 ![Git version](https://storage.googleapis.com/zenn-user-upload/cd568ecf378ca9ad0d53d9e6.png)
 
-#### zennのテスト記事を作成
+
+# 4. Gitコマンドによる投稿手順(add,commit,push)
+いよいよ投稿手順ですね。手順はこんな感じですね。
+![投稿手順の概要図](https://storage.googleapis.com/zenn-user-upload/500ba49816027347a8fdc77b.png)
+
+## Zennの投稿用記事を作成
 Zenn用の作業フォルダーに移動し、`npx zenn new`コマンドで記事を作成してください。
 > $ npx zenn new:article --slug <ファイル名> --title <記事のタイトル> --type <tech or idea>
 > 
