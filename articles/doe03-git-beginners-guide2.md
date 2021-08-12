@@ -1,5 +1,5 @@
 ---
-title: "Git入門 GitHubリポジトリをZennに連携させる【後編：記事投稿(Git)】"
+title: "Zenn入門 GitHubリポジトリをZennに連携させる【後編：記事投稿(Git)】"
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [git,zenn]
